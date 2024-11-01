@@ -20,7 +20,7 @@ function Faq() {
   ];
 
   return (
-    <div className="flex justify-center items-center min-h-screen mt-20">
+    <div className="flex justify-center items-center min-h-screen mt-40">
       <div
         className="bg-neutral-900 p-6 rounded-lg text-white w-full md:w-[750px] lg:w-[1200px]"
         style={{
